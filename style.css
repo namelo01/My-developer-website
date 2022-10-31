@@ -1,0 +1,32 @@
+* {
+  background-color: black;
+  color: aliceblue;
+}
+
+/* .navBar {
+  background-color: black;
+} */
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  font-size: xx-large;
+  padding: 10px;
+  /* text-align: right; */
+}
+
+/* home */
+.intro{
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+/* mystory */
+.story {
+  text-indent: 50px;
+  list-style-type: square;
+}
